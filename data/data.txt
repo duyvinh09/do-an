@@ -1,0 +1,37 @@
+
+--------- THONG TIN HANG DONG LANH ---------
+- Ten: KEM
+- Ma san pham: 1A
+- So luong: 1245
+- So luong ban trong ngay: 123
+- Cong ty san xuat: QEWEWQE
+- Noi san xuat: AST
+- Luu y: KO CO
+- Dia chi: 12-ADSA
+- So dien thoai: 098763423
+- Gia tien (VND): 123000
++ Trong Luong (gam): 12
++ Ngay San Xuat: 21/32/2022
++ Han Su Dung: 23/32/2022
+* Gia tien sale: 110700
+* Gia thue phai tra: 12300
+* Loi nhuan thu ve: 3.735e+06
+
+--------- THONG TIN DO UONG ---------
+- Ten: CACO
+- Ma san pham: 2B
+- So luong: 2123
+- So luong ban trong ngay: 345
+- Cong ty san xuat: WQERWQ
+- Noi san xuat: SAR
+- Luu y: OK
+- Dia chi: 092-ASFD
+- So dien thoai: 09458435
+- Gia tien (VND): 45000
++ Nhiet do bao quan (do C): 12
++ Ngay San Xuat: 24/34/2020
++ Han Su Dung: 23/34/3030
++ Size: 78
+* Gia tien sale: 40500
+* Gia thue phai tra: 4500
+* Loi nhuan thu ve: 3.1845e+07

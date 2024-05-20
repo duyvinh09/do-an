@@ -1,0 +1,11 @@
+{
+  "cmake.configureOnOpen": false,
+  "editor.fontSize": 18,
+  "files.associations": {
+    "system_error": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "iomanip": "cpp",
+    "iosfwd": "cpp"
+  }
+}

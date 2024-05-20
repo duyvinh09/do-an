@@ -1,0 +1,18 @@
+
+--------- THONG TIN HANG DONG LANH ---------
+- Ten: KEM
+- Ma san pham: 1A
+- So luong: 1245
+- So luong ban trong ngay: 123
+- Cong ty san xuat: QEWEWQE
+- Noi san xuat: AST
+- Luu y: KO CO
+- Dia chi: 12-ADSA
+- So dien thoai: 098763423
+- Gia tien (VND): 123000
++ Trong Luong (gam): 12
++ Ngay San Xuat: 21/32/2022
++ Han Su Dung: 23/32/2022
+* Gia tien sale: 110700
+* Gia thue phai tra: 12300
+* Loi nhuan thu ve: 3.735e+06
